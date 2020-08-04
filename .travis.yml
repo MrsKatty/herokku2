@@ -4,6 +4,10 @@ php:
   - "7.3"
   - "7.4"
 
+jobs:
+  allow_failures:
+    - php: nightly
+
 install:
   - travis_retry composer install --no-interaction --prefer-dist --no-progress --no-suggest
 

@@ -1,6 +1,17 @@
-$color: yellow;
-
-
 body{
-    background-color: $color;
+    background-image: url(rabstol_net_space_58.jpg);
+    padding: 450px;
+}
+
+form {
+    text-align: center;
+    height: 100px/2px; 
+
+    input {
+        height: 28px;
+    }
+    select {
+        height: 34px;
+    }
+    
 }

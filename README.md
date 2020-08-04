@@ -1,1 +1,1 @@
-[![Build Status](https://travis-ci.com/MrsKatty/herokku2.svg?branch=master)](https://travis-ci.com/MrsKatty/herokku2)
+[![Build Status](https://travis-ci.org/MrsKatty/herokku2.svg?branch=master)](https://travis-ci.org/MrsKatty/herokku2)
